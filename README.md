@@ -1,2 +1,7 @@
-# trabalho_grafos_2024
-Repositório criado para o desenvolvimento do trabalho de Teoria dos Grafos
+# Trabalho de Teoria dos Grafos
+
+Alunos:
+
+-Gustavo de Jesus Furtado
+-Pedro Andrade Pereira Leão
+-Pedro Detoni Pereira - 20217631
